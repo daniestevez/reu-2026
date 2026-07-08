@@ -22,6 +22,9 @@ of the Breakthrough Listen Research Experience for Undergraduates 2026.
   estimation with an averaged FFT. FFT windows (spectral leakage and scalloping
   loss).
 
+* Session 3. [beamforming](beamforming). Introduction to beamforming and
+  interferometry. Linear antenna arrays.
+
 ## Previous years
 
 This is the list of materials used in previous years:
