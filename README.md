@@ -28,6 +28,13 @@ of the Breakthrough Listen Research Experience for Undergraduates 2026.
 * Session 4. [hydrogen-line](hydrogen-line). Field trip to the Allen Telescope
   Array. Hydrogen line observation.
 
+* Session 5. [scripting](scripting). Scripting of GNU Radio flowgraphs in Python
+  to conduct observations and collect data.
+
+* Session 5. [python-blocks](python-blocks). Introduction to Embedded Python
+  Blocks in GNU Radio, using the spectral kurtosis as an example.
+  ([Reference paper](https://hal.science/hal-00021302/document)).
+
 ## Previous years
 
 This is the list of materials used in previous years:
