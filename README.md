@@ -35,6 +35,15 @@ of the Breakthrough Listen Research Experience for Undergraduates 2026.
   Blocks in GNU Radio, using the spectral kurtosis as an example.
   ([Reference paper](https://hal.science/hal-00021302/document)).
 
+* Session 6. [filtering](filtering). Introduces the concepts of decimation,
+  aliasing and filtering.
+
+* Session 6. [fm-broadcast](fm-broadcast). Broadcast FM receiver demo, including
+  stereo audio and RDS. Short recording
+  [fm_broadcast_recording_20240615.c64](https://drive.google.com/file/d/1IYZR0OuF6bcwVwT2uuooNaWP3lGyI4zb/view?usp=sharing)
+  (245MB) to allow following along without an RTL-SDR (or without any FM
+  stations available).
+
 ## Previous years
 
 This is the list of materials used in previous years:
