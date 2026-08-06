@@ -141,6 +141,18 @@ blocks:
     coordinate: [576, 24.0]
     rotation: 0
     state: true
+- name: output_gain
+  id: variable
+  parameters:
+    comment: ''
+    value: '10'
+  states:
+    bus_sink: false
+    bus_source: false
+    bus_structure: null
+    coordinate: [560, 1496.0]
+    rotation: 0
+    state: enabled
 - name: polyphase_gain
   id: variable
   parameters:
@@ -369,7 +381,7 @@ blocks:
     comment: ''
     maxoutbuf: '0'
     minoutbuf: '0'
-    scale_factor: '128.0'
+    scale_factor: 128.0 * output_gain
     vector_output: 'False'
   states:
     bus_sink: false
