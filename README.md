@@ -44,6 +44,10 @@ of the Breakthrough Listen Research Experience for Undergraduates 2026.
   (245MB) to allow following along without an RTL-SDR (or without any FM
   stations available).
 
+* Session 7. [seti](seti). Simulation of Doppler drift, polyphase filterbanks,
+  fine channelization, integration with SETI tools such as as `rawspec`,
+  `watutil` and `bliss`.
+
 ## Previous years
 
 This is the list of materials used in previous years:
